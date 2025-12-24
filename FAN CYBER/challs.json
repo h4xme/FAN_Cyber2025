@@ -1,0 +1,157 @@
+{
+    "data": {
+        "Binary Exploitation": [
+            {
+                "category": "Binary Exploitation",
+                "description": "Come join the baratie.. you will meet the best chef all across the sea\r\n\r\nPS: flag is stored at /\r\n\r\n[nc infinity.antix.or.id 1337]",
+                "files": [
+                    "/files/d0c333cd72680d5b1ed663980af7eed2/baratie?token=eyJ1c2VyX2lkIjo2LCJ0ZWFtX2lkIjoyLCJmaWxlX2lkIjo4fQ.aSmjLQ.PWhwtsKfI6jXY6OniHM6pPlN5UA"
+                ],
+                "hints": [
+                    "-"
+                ],
+                "id": 6,
+                "name": "baratie",
+                "points": 500,
+                "solves": 1
+            },
+            {
+                "category": "Binary Exploitation",
+                "description": "no more kerang ajaib, still on maintenance but still have \"kerang\" in it\r\n\r\n[nc infinity.antix.or.id 15557]\r\n\r\nAuthor: Daicy",
+                "files": [
+                    "/files/28956022fbd0ffa72d4b1358d9991020/chall?token=eyJ1c2VyX2lkIjo2LCJ0ZWFtX2lkIjoyLCJmaWxlX2lkIjoxM30.aSmjLw.hFRPIqWopq-xJT5vbawJSr8rY4I"
+                ],
+                "hints": [
+                    "-"
+                ],
+                "id": 7,
+                "name": "Under Maintenance",
+                "points": 500,
+                "solves": 1
+            }
+        ],
+        "Cryptography": [
+            {
+                "category": "Cryptography",
+                "description": "yes i love kitasan black and satono diamond, i know they have a pretty derby\r\n\r\n\r\nAuthor: Daicy",
+                "files": [
+                    "/files/c1698f60229d20516ebb5bd58c8646ee/chall.py?token=eyJ1c2VyX2lkIjo2LCJ0ZWFtX2lkIjoyLCJmaWxlX2lkIjozfQ.aSmjLQ.mwzatPrqDaY1w5T9qtKeJi0SJRw",
+                    "/files/1c0101a020c4598e9c8c14edd94cbd11/whatisthis.mp4?token=eyJ1c2VyX2lkIjo2LCJ0ZWFtX2lkIjoyLCJmaWxlX2lkIjo0fQ.aSmjLQ.8RTTYlZApfNtoF7tI3Nwizcv-9c"
+                ],
+                "hints": [
+                    "-"
+                ],
+                "id": 1,
+                "name": "kitasan black and satono diamond",
+                "points": 485,
+                "solves": 2
+            },
+            {
+                "category": "Cryptography",
+                "description": "Aku telah menciptakan sebuah karya puisi untuk gebetanku, namun sayangnya aku tak sengaja merusaknya namun masih ada beberapa bagian yang terbaca. Bisakah kamu membantuku? \r\n\r\nAuthor: Daicy",
+                "files": [
+                    "/files/e5de3a83368f9f4e0137b5ad42d2f1d6/chall.py?token=eyJ1c2VyX2lkIjo2LCJ0ZWFtX2lkIjoyLCJmaWxlX2lkIjo1fQ.aSmjLg.9mkmVlFPQeLuyWx8TYSHVLk0h9I",
+                    "/files/741c2d21cd068dfe9e84c128c64e94e7/encrypted?token=eyJ1c2VyX2lkIjo2LCJ0ZWFtX2lkIjoyLCJmaWxlX2lkIjo2fQ.aSmjLg.pa5gioRx0Ds_4ezcZ_MWcu-HYZw",
+                    "/files/8570295e63caca9267ba8af5ccb392ef/puisi.txt?token=eyJ1c2VyX2lkIjo2LCJ0ZWFtX2lkIjoyLCJmaWxlX2lkIjo3fQ.aSmjLg.LG_jQScIHo8x4YroHc65Tl_Ut2U"
+                ],
+                "hints": [
+                    "-"
+                ],
+                "id": 5,
+                "name": "Puisi Terindah",
+                "points": 500,
+                "solves": 0
+            }
+        ],
+        "Digital Forensics": [
+            {
+                "category": "Digital Forensics",
+                "description": "**FAKTA MENARIK!** Kamu tau gak sih tentang steganosaurus? dia adalah salah satu hewan dinosaurus yang paling kuat dan jarang ada dino yang bisa mengalahkannya, rupanya rahasianya adalah dia suka dengan hal hal yang berlapis seperti makanan kesukaannya yaitu bawang yang memiliki struktur berlapis. Salah satunya adalah **'bawang-bombay'** katanya inilah password terkuatnya\r\n\r\nAuthor: **Kaguai10**",
+                "files": [
+                    "/files/3415d067a111feef3845c03769ffc724/flag.zip?token=eyJ1c2VyX2lkIjo2LCJ0ZWFtX2lkIjoyLCJmaWxlX2lkIjoxfQ.aSmjLg.Qsk11H12ZMb6BZ5Jq9MdKYojMv4"
+                ],
+                "hints": [
+                    "-"
+                ],
+                "id": 2,
+                "name": "steganosaurus",
+                "points": 485,
+                "solves": 2
+            },
+            {
+                "category": "Digital Forensics",
+                "description": "tahukah kamu kabar terbaru ini, bahwa admin habis belajar memasak bersama om samroni, admin dikasih resep cara memasak makroni yang lezat dan enak. Tapi sepertinya saat pengiriman resep rahasia makroni-nya om samroni ditukar oleh ibu puan, dan resep yang sampai ditangan admin adalah resep pembuatan bakteri malware coba kamu bantu saya analisis resep ini agar resep aslinya bisa saya dapatkan. **JANGAN COBA RUNNING SEMBARANGAN DI WORK DEVICE**\r\n\r\nAuthor: **Kaguai10**",
+                "files": [
+                    "/files/725a6440c5f115fdda304ffa4ead03db/flag.rar?token=eyJ1c2VyX2lkIjo2LCJ0ZWFtX2lkIjoyLCJmaWxlX2lkIjoyfQ.aSmjLQ.v1_uSIjCwbcUYcXGk9Z7XQsxTtQ"
+                ],
+                "hints": [
+                    "-"
+                ],
+                "id": 3,
+                "name": "\ud83d\udd2cBakteri Makroni_Samroni",
+                "points": 500,
+                "solves": 1
+            }
+        ],
+        "Reverse Engineering": [
+            {
+                "category": "Reverse Engineering",
+                "description": "Something seems off with this binary...\r\n\r\n\r\nAuthor: Daicy",
+                "files": [
+                    "/files/01747626c7efd421c9c4869bf7be8c9a/main?token=eyJ1c2VyX2lkIjo2LCJ0ZWFtX2lkIjoyLCJmaWxlX2lkIjoxMH0.aSmjLg.u4tCzem_e6mF_moXfiDjA_K0QYM"
+                ],
+                "hints": [
+                    "-"
+                ],
+                "id": 8,
+                "name": "Blindspot",
+                "points": 485,
+                "solves": 2
+            },
+            {
+                "category": "Reverse Engineering",
+                "description": "jangan lupa login biar dapet flag ygy\r\n\r\n\r\nAuthor: Daicy",
+                "files": [
+                    "/files/96f8d11c896e90bc9f1256bff9e3b0eb/login?token=eyJ1c2VyX2lkIjo2LCJ0ZWFtX2lkIjoyLCJmaWxlX2lkIjoxMX0.aSmjLg.zE3F9T--yIWBWtSp9RFegMCGVFs"
+                ],
+                "hints": [
+                    "-"
+                ],
+                "id": 9,
+                "name": "login",
+                "points": 485,
+                "solves": 2
+            }
+        ],
+        "Web Exploitatiton": [
+            {
+                "category": "Web Exploitatiton",
+                "description": "Capek gak sih main CTF muluuu mending kita surfing dulu, SAAAANNNNTTAAAIII DDDDUUULLLUUUU KKKAAAWWWAAANNN\r\n\r\n[Gass beli tiket surfingnya dulu](http://infinity.antix.or.id:5551/)\r\n",
+                "files": [
+                    "/files/234e50dfec952654273fce18d5730b9c/chall.zip?token=eyJ1c2VyX2lkIjo2LCJ0ZWFtX2lkIjoyLCJmaWxlX2lkIjoxMn0.aSmjLg.vveVc_h2CKSYq33ZDfJu19GRIaE"
+                ],
+                "hints": [
+                    "-"
+                ],
+                "id": 11,
+                "name": "Surf",
+                "points": 500,
+                "solves": 1
+            },
+            {
+                "category": "Web Exploitatiton",
+                "description": "**CATAT INI** pada tanggal 03 bulan 06 dan tahun 1996, Sepuh Cyber Infinity Membuat web yang keren canggih dan aman. namun pada tanggal itu ada hacker yang berhasil membombol web kita yang kita sebut serangan 3696. Ini merupakah awal dari dunia hacking \ud83d\ude08\r\n\r\n[coba kamu lihat web kami](http://infinity.antix.or.id:5050/)\r\n\r\nAuthor: **Kaguai10**",
+                "files": [],
+                "hints": [
+                    "-"
+                ],
+                "id": 10,
+                "name": "\ud83d\ude083696",
+                "points": 500,
+                "solves": 1
+            }
+        ]
+    },
+    "title": "FAN CYBER",
+    "url": "http://infinity.antix.or.id:8000"
+}
